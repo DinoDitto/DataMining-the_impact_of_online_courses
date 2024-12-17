@@ -1,6 +1,5 @@
 # The Impact of Online Courses on Education
 
-資料探勘概論期末專題
 * 資料集
 <br>Online Education System – Review
 <br>(https://www.kaggle.com/datasets/sujaradha/online-education-system-review)
